@@ -1,0 +1,83 @@
+    body{
+        margin: 0;
+        text-align: center;
+        font-family: monospace;
+    }
+
+    h1{
+        color: #66BFBF;
+        font-size: 500%;
+        line-height:1;
+        margin-top: 0;
+    }
+    h2{
+        color: #66BFBF;
+        font-weight: normal;
+    }
+    h3{
+        color: #11999E;
+    }
+
+    .top-container{
+        background-color: rgb(225,248,245);
+        position: relative;
+        padding-top: 100px;
+    }
+
+    .middle-container{
+    }
+    .logo-profile{
+        width: 50%;
+        margin-right: 150px;
+    }
+    .code-img{
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+    }
+    .chilli-img{
+        width: 25%;
+        float: right;
+        margin-left: 30px;
+    }
+
+    .bottom-container{
+        background-color: #66BFBF;
+    }
+    .mountain{
+        width: 50%;
+        height: 50%;
+    }
+    .skill-row{
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+    }
+    .pro{
+        text-decoration: underline;
+    }
+    .bottom-cloud{
+        position: absolute;
+        right: 200px;
+        top: 50px;
+    }
+    .middle-cloud{
+        position: absolute;
+        left: 100px;
+        top: 50px;
+    }
+    .top-cloud{
+        position: absolute;
+    }
+    .btn{
+        color: white;
+        background-color: #139aa0;
+        border-style:none;
+        border-radius:8px;
+        line-height:2;
+    }
+    .btn:hover{
+        background-color: #66BFBF;
+    }
+
+

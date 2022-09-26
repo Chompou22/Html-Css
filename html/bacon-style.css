@@ -1,0 +1,14 @@
+h1{
+    color: yellow;
+    font-size: 100px;
+}
+/* Overriding h1 */
+#heading{
+    color: aquamarine;
+}
+.bacon{
+    background-color: lightblue;
+}
+.broccoli{
+    background-color: aqua;
+}

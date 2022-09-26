@@ -1,0 +1,16 @@
+body{
+    background-color: powderblue;
+}
+h3{
+    color: yellow;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: greenyellow;
+    border-width: 5px;
+    width: 5%;
+}
+img{
+    height: 20px;
+}
